@@ -1,17 +1,11 @@
 <h1 align="center">Hi 👋, I'm Viresh Hiremath</h1>
-<h3 align="center">A passionate java developer.</h3>
+<h3 align="center">Java Enthusiast</h3>
 
-
-- 🌱 I’m currently learning **Full Stack**
-
-- 💬 Ask me about **Java And Some Of Its Frameworks**
 
 - 📫 How to reach me **viresh0489@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!--   <a href="https://www.leetcode.com/viresh0489" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="viresh0489" height="30" width="40" /></a> -->
-<!-- <a href="https://auth.geeksforgeeks.org/user/viresh22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="viresh22" height="30" width="40" /></a> -->
 <a href="https://twitter.com/viresh0489" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="viresh0489" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/viresh-hiremath-bb651b21a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viresh hiremath" height="30" width="40" /></a>
 <a href="https://instagram.com/viresh_hiremath22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="viresh_hiremath22" height="30" width="40" /></a>
