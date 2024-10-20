@@ -19,3 +19,6 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vireshh22&" alt="vireshh22" /></p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=vireshh22&color=blue)
+
