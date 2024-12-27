@@ -29,7 +29,7 @@ I'm Viresh 👋, B.Tech student in Computer Science and Engineering with a stron
 ## 🛠️ Tools & Technologies
 
 - Frontend: HTML, CSS.
-- Backend: Java, SQL.
+- Backend:
   - Languages: Java, SQL.
   - Frameworks: Spring Boot, Hibernate
 - Version Control: Git, GitHub.
