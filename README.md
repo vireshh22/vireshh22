@@ -34,7 +34,6 @@ I'm Viresh 👋, B.Tech student in Computer Science and Engineering with a stron
   - Frameworks: Spring Boot, Hibernate
 - Version Control: Git, GitHub.
 - IDEs: Visual Studio Code.
-- Event Streaming & Messaging Systems: Apache Kafka
 
 ## 📫 Let's Connect
 
