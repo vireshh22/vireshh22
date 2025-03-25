@@ -30,8 +30,8 @@ I'm Viresh 👋, B.Tech student in Computer Science and Engineering with a stron
 
 - Frontend: HTML, CSS.
 - Backend:
-  - Languages: Java, SQL.
-  - Frameworks: Spring Boot, Hibernate
+  - Languages: Java, PHP.
+  - Frameworks: Spring Boot, CodeIgniter
 - Version Control: Git, GitHub.
 - IDEs: Visual Studio Code.
 
